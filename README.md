@@ -10,7 +10,8 @@ https://github.com/user-attachments/assets/2719607f-1137-435a-b621-6de6169fb9eb
 
 ## Instrumental Run
 
-https://github.com/user-attachments/assets/edce6ab8-7e63-405e-b66c-ed74df74bb55
+https://github.com/user-attachments/assets/2f225d6d-f1ac-4102-9481-887b2316af1e
+
 
 
 ## 🏗 Architecture & Tech Stack
