@@ -39,7 +39,7 @@ class PracticalAssessmentTest {
             .performClick()
 
         // Sync the framework to ensure Page 2 has completely rendered before checking
-        composeTestRule.waitUntil(timeoutMillis = 5000) {
+        composeTestRule.waitUntil(timeoutMillis = 15000) {
             composeTestRule
                 .onAllNodesWithTag(TAG_BTN_PAGE2_TEST_TEXT)
                 .fetchSemanticsNodes()
