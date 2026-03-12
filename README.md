@@ -4,6 +4,15 @@
 
 A production-ready Android application built entirely with Jetpack Compose, designed to fulfill the practical assessment requirements while demonstrating senior-level architectural patterns, UI/UX polish, and robust automated testing.
 
+## Manual Run
+
+https://github.com/user-attachments/assets/2719607f-1137-435a-b621-6de6169fb9eb
+
+## Instrumental Run
+
+https://github.com/user-attachments/assets/edce6ab8-7e63-405e-b66c-ed74df74bb55
+
+
 ## 🏗 Architecture & Tech Stack
 
 This project was built with a focus on **Separation of Concerns**, **Testability**, and **Modern Native Android Development**.
