@@ -35,7 +35,7 @@ If you have an Android emulator or physical device connected via ADB, you can ru
 
 ```bash
 # Clone the repository
-git clone [https://github.com/rickroydaban/AndroidAssessment.git](https://github.com/rickroydaban/AndroidAssessment.git)
+git clone https://github.com/rickroydaban/AndroidAssessment.git
 cd AndroidAssessment
 
 # Execute the instrumentation tests
