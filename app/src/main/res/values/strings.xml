@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AndroidAssessment</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="enter_assessment_credentials">Enter your assessment credentials</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+
+    <string name="test_text">Test text</string>
+    <string name="not_test_text">Not test text</string>
+
+    <string name="enter_pin">Enter PIN</string>
+    <string name="enter_pin_desc">Please enter your 4-digit security code</string>
+    <string name="verify_pin">Verify Pin</string>
+
+    <string name="error_incorrect_password">Incorrect password. Please try again.</string>
+
+    <string name="cd_security_icon">Security Icon</string>
+    <string name="cd_hide_password">Hide Password</string>
+    <string name="cd_show_password">Show Password</string>
+</resources>
