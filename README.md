@@ -35,8 +35,8 @@ If you have an Android emulator or physical device connected via ADB, you can ru
 
 ```bash
 # Clone the repository
-git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git)
-cd YOUR_REPO_NAME
+git clone [https://github.com/rickroydaban/AndroidAssessment.git](https://github.com/rickroydaban/AndroidAssessment.git)
+cd AndroidAssessment
 
 # Execute the instrumentation tests
 ./gradlew connectedAndroidTest
